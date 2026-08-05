@@ -1,13 +1,13 @@
 Capstone Report —
 
-Author:
-Lane:
-Repo:
-Date:
-Copy this file to work/capstone_report.md and fill it in as you build. Sections 1–8 mirror the Pass / Needs-Work rubric axes, so nothing here is optional. Sections 0 and 9 are paper sections: your deployed research paper must carry both, and they're here so you never rebuild them from memory at ship time.
+Author: Maryam Asif
+Lane: Refresh / Content Opportunity Scoring
+Repo: https://github.com/maryam884/flyrank-ml-internship
+Date: August 2026
+
 0. Abstract
 
-Five sentences, written last, placed first: question → data → method → headline result → what the output is for. This is the top of your deployed paper.
+This research investigates how content pages can be prioritized for refresh opportunities using search performance data. The analysis uses the FlyRank ML Internship dataset containing anonymized production search signals. A content opportunity scoring approach was developed using performance features and compared against a baseline ranking method. The evaluation measures how the proposed approach compares with the baseline on the same validation split. The final output is a decision-support ranking system that helps content teams prioritize pages for refresh, expansion, protection, or monitoring.
 
 1. Problem framing
 
