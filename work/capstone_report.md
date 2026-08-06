@@ -1,9 +1,9 @@
-Capstone Report —
+# Content Refresh Opportunity Scoring Using Search Performance Data
 
-Author: Maryam Asif
-Lane: Refresh / Content Opportunity Scoring
-Repo: https://github.com/maryam884/flyrank-ml-internship
-Date: August 2026
+**Author:** Maryam Asif  
+**Lane:** Refresh / Content Opportunity Scoring  
+**Repository:** https://github.com/maryam884/flyrank-ml-internship  
+**Date:** August 2026
 
 0. Abstract
 
@@ -97,6 +97,10 @@ Supporting notebooks:
 
 The experiments were run using the documented notebook environment and workflow.
 
-9. Acknowledgments & data credit
+## Acknowledgments & Data Credit
 
-https://flyrank.ai
+Built on the FlyRank ML Internship Dataset.
+
+Data source: https://flyrank.ai
+
+This project uses the anonymized FlyRank ML Internship dataset for educational purposes. No client-identifying information is included.
